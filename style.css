@@ -7,11 +7,12 @@ html {
 body {
   min-height: 100%;
   min-width: 100%;
-  background: linear-gradient(pink, violet);
+  background: linear-gradient(#fff, #000);
 }
 
 button {
   font-size: 7px;
+   color:#dc0910;
 }
 
 #main-content {
@@ -34,4 +35,16 @@ button {
   padding: 15px 20px 18px 18px;
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
+}
+
+.red {
+  color: #b33539;
+}
+
+.yellow {
+  color: #dbad0e;
+}
+
+.green {
+  color: #1c7f0b;
 }
